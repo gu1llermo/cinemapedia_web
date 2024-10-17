@@ -1,6 +1,6 @@
 {
-    "name": "cinemapedia",
-    "short_name": "cinemapedia",
+    "name": "cinemapedia_web",
+    "short_name": "cinemapedia_web",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
